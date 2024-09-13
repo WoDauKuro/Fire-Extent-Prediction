@@ -29,7 +29,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn lightgbm
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/predict-fire.git
+   git clone https://github.com/WoDauKuro/Fire-Extent-Prediction.git
    cd predict-fire
    ```
 
@@ -70,4 +70,3 @@ Contributions to this project are welcome! Please fork the repository and submit
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
